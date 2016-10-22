@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_0a254063d3967d1d539a482356efe98b47d93979/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_410316f096bb272e6c566f7e3ebdede370d96103/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_20ab5f793e176612fe73d78b5aeb482dea0892e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9a569b118d8a1a017ee0030b7d759881ef4c9bbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_146ad5d83648da7a144ce5e20924f9763dfe6afc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2859299f67693d0c5550e1b032bc866c326fd366">
+        <dex dex="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0112dd69e1df79e991042f7064fc66699e1725fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_cb45933b1b1c63a6b3adc7503191d003709bc5dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_48bbc4d3ada15fdf3203785751534bb02ffc62ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/funkoigame/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_e8ab380193dd7f62b25480876c6c3921b4c95b1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f2b24dbb67e04ee40f77e17ac547ba883bef457d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_8b73949a3061ef38095267f0a828e54f78a14eda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.0.0_1791bf0d5e2ead0706c9ec3bb00244a15a5410e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_2b658622179511d6e9cfee409f8cce0b940fbe03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_74f71a94daa615845e06d6f97dec5e69d225a39e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d641f6b7b2d186e77c04bede5e17a032c1cd8d52">
+        <dex dex="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5cae846814b566323a5efdf4cfcf980b543d9942/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_fb4e5dc9aaf22350d28cc77f85782dc47248ae16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6290b35aa57fb2e4050db730589a0b3213c44efc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_2538f3c107984dd531433009033081bf34480995/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_8fb42b67c587f5ff46db2cfe566ae9eb8a31da44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/funkoigame/Desktop/DocTruyenHay/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_0d7166f7ff24b69ab008257e3981ef306ed6540d/classes.dex" />
+    </item>
+
+</items>
